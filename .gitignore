@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/GrammarImprover.API/obj/Debug
+/GrammarImprover.BLL/obj/Debug
+/GrammarImprover.DAL/obj/Debug
+/GrammarImprover.DTO/obj/Debug
+/GrammarImprover.SDK/obj/Debug
+/GrammarImprover.WebServices/obj/Debug
+/GrammarImprover.WebSite/obj/Debug
